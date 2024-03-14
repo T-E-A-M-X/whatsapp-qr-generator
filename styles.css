@@ -65,7 +65,7 @@ button:hover {
     margin-top: 20px;
 }
 
-/* footer {
+footer {
     background-color: #333;
     color: #fff;
     text-align: center;
@@ -73,7 +73,7 @@ button:hover {
     position: fixed;
     bottom: 0;
     width: 100%;
-} */
+}
 
 /* Particle.js background container styling */
 #background {
